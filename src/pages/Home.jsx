@@ -1,8 +1,14 @@
 import React from 'react'
+import Globe from '../components/Globe'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+
+<Globe/>
+
+
+    </div>
   )
 }
 
